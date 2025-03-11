@@ -1,0 +1,1 @@
+archivo con la descripción de la configuración de proyecto.
